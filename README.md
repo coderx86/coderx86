@@ -30,17 +30,17 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/purno_x86/">
+  <a href="https://www.instagram.com/purno_x86/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 <div align="left">
-  <a href="https://www.facebook.com/supurno.dewan/">
+  <a href="https://www.facebook.com/supurno.dewan/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" height="35" alt="instagram logo"  />
   </a>
 </div>
 <div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=supurnandc75@gmail.com&su=Hello&body=This">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=supurnandc75@gmail.com&su=Hello&body=This" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="instagram logo"  />
   </a>
 </div>
