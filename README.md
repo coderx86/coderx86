@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/PLIr_VkF6ywAAAAC/tenor.gif"  />
 
 ###
 
@@ -22,13 +22,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
+  <img width="12" />
+          
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/supurno_x86/">
+  <a href="https://www.instagram.com/purno_x86/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+<div align="left">
+  <a href="https://www.facebook.com/supurno.dewan/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" height="35" alt="instagram logo"  />
+  </a>
+</div>
+<div align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=supurnandc75@gmail.com&su=Hello&body=This">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="instagram logo"  />
   </a>
 </div>
 
