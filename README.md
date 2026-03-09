@@ -1,56 +1,52 @@
-<h2 align="left">Hi 👋! My name is Supurna Dewan, and I'm a student of CUET exploring the world of coding from Rangamati, Bangladesh.</h2>
+<p align="center">
+  <img src="https://i.ibb.co.com/Z1RftNdR/Supurna-Dewan-Web-Developer-Tech-Enthusiast-20260310-042434-0000.png" alt="Supurna Dewan Banner" width="100%">
+</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderx86&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderx86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://c.tenor.com/PLIr_VkF6ywAAAAC/tenor.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-          
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/purno_x86/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-<div align="left">
-  <a href="https://www.facebook.com/supurno.dewan/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" height="35" alt="instagram logo"  />
-  </a>
-</div>
-<div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=supurnandc75@gmail.com&su=Hello&body=This" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-![Light Mode SVG](assets/snake_emoji_light.svg#gh-light-mode-only)
-![Dark Mode SVG](assets/snake_emoji_dark.svg#gh-dark-mode-only)
+<h1 align="center">Hi there, I'm Supurna Dewan 👋</h1>
+<h3 align="center">Mechatronics & Industrial Engineering Student | Web Developer | AI & ML Enthusiast</h3>
 
 
-###
+## 🙋‍♂️ About Me
+I am an aspiring tech innovator and engineering student currently pursuing my degree in Mechatronics and Industrial Engineering (MIE) at Chittagong University of Engineering and Technology (CUET). I am a passionate learner and developer, constantly exploring new technologies to build impactful projects. I enjoy bridging the gap between hardware and software, and I love creating clean, efficient, and user-friendly web applications.
+
+* 🚀 Successfully built and delivered **5+ web projects**.
+* 🔭 I’m currently working on interactive web applications and IoT-based projects.
+* 🌱 I’m currently exploring **Next.js**, Advanced **React**, and diving into AI/ML..
+* ⚙️ Member of the Robo Mechatronics Association (RMA).
+* 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+* 📫 How to reach me: **[supurnandc75@gmail.com](mailto:supurnandc75@gmail.com)**
+* 📍 Location: Rangamati, Chittagong, Bangladesh
+
+
+## 🛠️ Skills & Technologies
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+</p>
+
+<br/>
+
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/supurno.dewan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="mailto:supurnandc75@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="40" /></a>
+  <a href="https://purno-dewan.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Website" height="30" width="40" /></a>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://ghchart.rshah.org/coderx86" alt="Supurna's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderx86&theme=radium&hide_border=true" alt="Supurna's GitHub Streak" />
+</p>
