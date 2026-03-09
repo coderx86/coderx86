@@ -33,7 +33,13 @@ I am an aspiring tech innovator and engineering student currently pursuing my de
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 </p>
 
-<br/>
+## 🚀 Featured Projects
+
+| Projects | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[StitchTrack](https://github.com/coderx86/stitch-track-client.git)**<br/>*Garment Order & Production Tracker* | StitchTrack is a modern, full-stack platform designed to streamline the production workflow in the garment industry. It connects manufacturers (Managers), buyers (Users), and platform administrators (Admins) through a transparent and efficient real-time tracking system. | React, TailwindCSS, Firebase, MongoDB, ExpressJS |
+| **[StudyMate](https://github.com/coderx86/studymate-client.git)**<br/>*Collaborative Learning Platform* | StudyMate is a modern web application designed to connect students and learners with study partners based on their subjects, study modes, and availability. | React, TailwindCSS, Firebase, MongoDB, ExpressJS |
+| **[GreenNest](https://github.com/coderx86/GreenNest.git)**<br/>*Indoor Plant Care & Store* | GreenNest is a modern, responsive single-page web application for indoor plant enthusiasts. Browse a curated collection of indoor plants, get expert care tips, and book consultations with plant specialists. Features secure Firebase authentication with Google Sign-In support. | React, TailwindCSS, Firebase |
 
 ## 🌐 Connect with me
 <p align="left">
