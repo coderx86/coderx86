@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Supurna Dewan</h1>
+<h1 align="center">Hi, I'm Supurna Dewan👋</h1>
 
 <p align="center">
   Mechatronics & Industrial Engineering Student · Full-Stack Web Developer · AI/ML Enthusiast
